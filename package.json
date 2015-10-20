@@ -1,0 +1,22 @@
+{
+  "name": "builder",
+  "version": "0.0.0",
+  "description": "An attempt at utilizing a standalone build process",
+  "main": "index.js",
+  "scripts": {
+    "build": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancoates/builder.git"
+  },
+  "author": "Dan Coates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dancoates/builder/issues"
+  },
+  "homepage": "https://github.com/dancoates/builder#readme",
+  "devDependencies": {
+    "builder-standalone": "github:dancoates/builder-standalone#standalone"
+  }
+}
