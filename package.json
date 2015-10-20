@@ -4,7 +4,7 @@
   "description": "An attempt at utilizing a standalone build process",
   "main": "index.js",
   "scripts": {
-    "build": "build"
+    "build": "build --task esdoc"
   },
   "repository": {
     "type": "git",
